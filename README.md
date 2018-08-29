@@ -1,9 +1,7 @@
-# Ferramentas de controle de versão:
+# gamers:
 
-* Mercurial
+* COUNTER STRIKER
 
-* GitHub
+* GTA V
 
-* Subversion
-
-* CVS
+* GOD OF WAR
